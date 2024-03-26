@@ -1,4 +1,3 @@
-# Your solution to Exercise 3
 n = 0
 bottom = 20
 while n < 20:
